@@ -2,6 +2,7 @@
 
 Welcome message for linux servers.
 
+0) chmod a+x welcome.sh
 1) Put it in /etc/profile.d/
 2) Enjoy ;)
 
